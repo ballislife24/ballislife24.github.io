@@ -79,7 +79,7 @@ a img {
 }
 .body.home {
 	background:none #fbfbf4;
-	overflow:hidden;
+	
 }
 .body.home div:first-child {
 	float:left;
